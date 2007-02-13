@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "BEL 2/13/2007 22:55",
+	"super" : "Object",
+	"category" : "Trike-Builder",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CachedDeveloperInitials",
+		"TrikeSrc"
+	],
+	"instvars" : [ ],
+	"name" : "TrikeBuilder",
+	"type" : "normal"
+}
