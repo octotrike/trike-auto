@@ -4,6 +4,7 @@ installDevelopmentEnvironment
 
 	self
 		install;
+		upgradeToLatestVersion;
 		saveAsAppropriateName;
 		installDevelopmentTools;
 		configureDevelopmentEnvironment;

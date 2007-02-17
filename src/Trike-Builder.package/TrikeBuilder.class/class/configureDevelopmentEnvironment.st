@@ -6,6 +6,4 @@ configureDevelopmentEnvironment
 		configureCommonEnvironment;
 		setDevelopmentPreferences;
 		topChangeSetName: 'Trike';
-		buildNotebookCreator;
-		configureMonticello;
-		setAuthorInitials
+		buildNotebookCreator

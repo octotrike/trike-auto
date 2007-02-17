@@ -1,3 +1,0 @@
-preferences
-setAuthorInitials
-	Utilities setAuthorInitials
