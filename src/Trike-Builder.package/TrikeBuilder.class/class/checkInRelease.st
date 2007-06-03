@@ -1,4 +1,4 @@
-publishing
+source code control
 checkInRelease
 	
 	self

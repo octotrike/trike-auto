@@ -1,4 +1,4 @@
-publishing
+source code control
 checkIn
 	
 	self shouldBeImplemented

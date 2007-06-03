@@ -2,13 +2,10 @@
 	"commentStamp" : "BEL 2/13/2007 22:55",
 	"super" : "Object",
 	"category" : "Trike-Builder",
-	"classinstvars" : [
-		"mcm"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
-		"CachedDeveloperInitials",
-		"TrikeSrc"
+		"CachedDeveloperInitials"
 	],
 	"instvars" : [ ],
 	"name" : "TrikeBuilder",

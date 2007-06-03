@@ -1,10 +1,9 @@
 installation
 installDevelopmentEnvironment
-	"Install the appropriate version of the Trike UI, save the image under a new name, install some dev tools we commonly use, change some settings to make things more comfortable for non-native Squeakers and save the image."
+	"Install the latest version of the Trike code and all its dependencies, plus some dev tools we commonly use.  Change some settings to make things more comfortable for non-native Squeakers.  Save all this under an appropriate new name. "
 
 	self
-		install;
-		upgradeToLatestVersion;
+		installDevelopmentVersion;
 		saveAsAppropriateName;
 		installDevelopmentTools;
 		configureDevelopmentEnvironment;

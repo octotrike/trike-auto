@@ -1,4 +1,4 @@
-locations
+source code control
 trikeRepositoryLocation
 	"Answer the URL for the Trike repository."
 	
