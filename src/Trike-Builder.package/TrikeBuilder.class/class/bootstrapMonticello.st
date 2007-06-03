@@ -5,5 +5,6 @@ bootstrapMonticello
 
 	"Load the Monticello configuration from the Trike repository."
 	mcm := self trikeRepository versionFromFileNamed: self monticelloConfigurationName.
+	self halt.
 	mcm load.
 	
