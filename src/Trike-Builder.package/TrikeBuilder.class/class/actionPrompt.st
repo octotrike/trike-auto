@@ -7,7 +7,7 @@ actionPrompt
 		target: self;
 		add: 'install complete development environment' action: #installDevelopmentEnvironment;
 		add: 'install development packages only (do not change settings)' action: #installDevelopmentVersion;
-		add: 'just upgrade the builder' action: #yourself;
+		add: 'install the builder, but do not invoke it' action: #installTrikeBuilderPackage;
 		add: 'test release candidate' action: #testReleaseCandidate;
 		add: 'install release environment' action: #installReleaseEnvironment.
 	menu popUpInWorld
