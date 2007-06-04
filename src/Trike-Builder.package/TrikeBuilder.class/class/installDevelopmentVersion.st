@@ -1,4 +1,6 @@
 installation
 installDevelopmentVersion
 
-	self shouldBeImplemented
+	self install.
+	mcm updateFromRepositories.
+

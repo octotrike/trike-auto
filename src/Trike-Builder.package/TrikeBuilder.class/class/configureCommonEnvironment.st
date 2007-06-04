@@ -4,7 +4,5 @@ configureCommonEnvironment
 
 	self
 		setCommonPreferences;
-		removeAllMorphs;
-		setFonts;
-		sortAllCategories
+		setFonts
 

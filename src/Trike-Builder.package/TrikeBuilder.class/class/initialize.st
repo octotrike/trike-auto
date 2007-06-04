@@ -1,3 +1,4 @@
 initialization
 initialize
-	self bootstrapMonticello; actionPrompt
+
+	mcm := self trikeRepository versionFromFileNamed: self trikeConfigurationName

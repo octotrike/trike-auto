@@ -1,4 +1,0 @@
-publishing
-publishToSqueakMap
-
-	self shouldBeImplemented

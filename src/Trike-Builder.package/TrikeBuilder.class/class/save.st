@@ -1,4 +1,4 @@
-saving
+installation
 save
 	"Save the image in its current location."
 

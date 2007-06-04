@@ -5,7 +5,5 @@ installDevelopmentEnvironment
 	self
 		installDevelopmentVersion;
 		saveAsAppropriateName;
-		installDevelopmentTools;
-		configureDevelopmentEnvironment;
-		save.
+		configureDevelopmentEnvironment
 

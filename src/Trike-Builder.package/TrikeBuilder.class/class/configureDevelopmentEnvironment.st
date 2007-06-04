@@ -5,5 +5,4 @@ configureDevelopmentEnvironment
 	self
 		configureCommonEnvironment;
 		setDevelopmentPreferences;
-		topChangeSetName: 'Trike';
-		buildNotebookCreator
+		buildTrikeProject

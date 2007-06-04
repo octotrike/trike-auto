@@ -1,4 +1,0 @@
-quality control
-squeakMapInstallWorks
-
-	self shouldBeImplemented
